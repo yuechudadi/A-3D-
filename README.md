@@ -27,7 +27,7 @@ shensx-animal-animator-core/
 ├── requirements.txt               # 运行环境依赖库声明
 └── README.md                      # 核心项目展示文档
 # 一键启动
-# git clone https://github.com/YourUsername/shensx-animal-animator-core.git
+# git clone https://github.com/yuechudadi/shensx-animal-animator-core.git
 # cd shensx-animal-animator-core
 # pip install -r requirements.txt
 # python src/orchestrator/openclaw_gateway.py --book "data/source_texts/wolf_king_dream.txt"
